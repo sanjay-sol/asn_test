@@ -1,0 +1,6 @@
+[package]
+name = "asn1_noir"
+type = "bin"
+authors = [""]
+
+[dependencies]
